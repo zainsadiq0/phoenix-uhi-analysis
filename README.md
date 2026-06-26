@@ -29,11 +29,11 @@ The Urban Heat Island (UHI) effect disproportionately impacts low-income and min
 
 | Map | Description |
 |-----|-------------|
-| ![LST](maps/Map1_LST_Phoenix.png) | **Land Surface Temperature** — Landsat 9 Band 10, August 25, 2023 |
-| ![NDVI](maps/Map2_NDVI_Phoenix.png) | **NDVI** — Vegetation density derived from Bands 4 & 5 |
-| ![Impervious](maps/Map3_Impervious_Phoenix.png) | **Fractional Impervious Surface** — NLCD 2023, 0–100% per pixel |
-| ![VulnIndex](maps/Map4_VulnIndex_Phoenix.png) | **Composite Heat Vulnerability Index** — Weighted overlay of 6 variables |
-| ![HotSpot](maps/Map5_HotSpot_Phoenix.png) | **Getis-Ord Gi* Hot Spot Analysis** — Statistical clustering of VULN_INDEX |
+| ![LST](maps/Layout_LST.png) | **Land Surface Temperature** — Landsat 9 Band 10, August 25, 2023 |
+| ![NDVI](maps/Layout_NDVI.png) | **NDVI** — Vegetation density derived from Bands 4 & 5 |
+| ![Impervious](maps/Layout_Impervious.png) | **Fractional Impervious Surface** — NLCD 2023, 0–100% per pixel |
+| ![VulnIndex](maps/Layout_VulnIndex.png) | **Composite Heat Vulnerability Index** — Weighted overlay of 6 variables |
+| ![HotSpot](maps/Layout_HotSpot.png) | **Getis-Ord Gi* Hot Spot Analysis** — Statistical clustering of VULN_INDEX |
 
 ---
 
